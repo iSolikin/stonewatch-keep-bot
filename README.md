@@ -11,4 +11,4 @@
 
 Вход и операции с кошельком остаются под вашим контролем.
 
-**Подключение по подписке:** [@Animuchi в Telegram](https://t.me/Animuchi) · укажите «Stonewatch Keep Bot».
+**Подключение по подписке:** [@isolikin в Telegram](https://t.me/isolikin) · укажите «Stonewatch Keep Bot».
